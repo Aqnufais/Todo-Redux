@@ -1,8 +1,10 @@
-# React + Vite
+# Todo with Redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Developed a fully functional To-Do List application using React and Redux.
+- Implemented state management with Redux for centralized, predictable data flow.
+- Enabled task CRUD operations: Add, delete, and toggle tasks with real-time updates.
+- Integrated React-Redux to connect components with the Redux store using useSelector and useDispatch.
+- Utilized Tailwind CSS for creating a clean, responsive, and mobile-first user interface.
+- Demonstrated a solid understanding of React component structure and Redux architecture.
+- Focused on efficient state management practices for scalability and maintainability.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
